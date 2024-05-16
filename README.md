@@ -35,5 +35,5 @@ Este projeto é licenciado sob a [![MIT license](https://img.shields.io/badge/Li
 ## Contato
 Se você tiver alguma dúvida, crítica ou sugestão pode entrar em contato comigo. Estou disponível via e-mail ou através das redes sociais.
 
-- **E-mail:**
-- **LinkedIn:** [Francis Monteles]()# BankSystem
+- **E-mail:** quasedev@protonmail.com
+- **LinkedIn:** [Francis Monteles](https://www.linkedin.com/in/francis-monteles-693064255/)# BankSystem
