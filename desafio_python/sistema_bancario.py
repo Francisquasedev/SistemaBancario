@@ -1,4 +1,4 @@
-# Sitema Bancário Versão 1.0
+# Sistema Bancário Versão 1.0
 
 # Inicializando variáveis de saldo e contadores de depósitos e saques
 saldo = 0
